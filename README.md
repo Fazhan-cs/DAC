@@ -71,12 +71,11 @@ bash scripts/test/test.sh
 If you find this work useful, please cite our paper:
 
 ```BIBTEX
-@inproceedings{zhan2026decomposing,
+@article{fa2026decomposing,
   title={Decomposing and Composing: Towards Efficient Vision-Language Continual Learning via Rank-1 Expert Pool in a Single LoRA},
-  author={Zhan, Fa and [Other Authors]},
-  booktitle={Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI)},
-  year={2026},
-  publisher={AAAI Press}
+  author={Fa, Zhan and Duan, Yue and Zhang, Jian and Qi, Lei and Yang, Wanqi and Shi, Yinghuan},
+  journal={arXiv preprint arXiv:2601.22828},
+  year={2026}
 }
 ```
 
